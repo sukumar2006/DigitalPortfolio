@@ -415,11 +415,11 @@ grid-gap: 2rem;
     box-shadow: --neon-box-shadow;
 }
 .skils-bar .bar .html{
-    width: 80%;
+    width: 90%;
     animation: html 6s infinite;
 }
 .skils-bar .bar .javascript{
-    width: 90%;
+    width: 80%;
     animation: javascript 6s infinite;
 }
 .skils-bar .bar .css{
@@ -446,7 +446,7 @@ grid-gap: 2rem;
         width: 0%;
     }
     100%{
-        width: 80%;
+        width: 90%;
     }
 }
 @keyframes javascript{
@@ -454,7 +454,7 @@ grid-gap: 2rem;
         width: 0%;
     }
     100%{
-        width: 90%;
+        width: 80%;
     }
 }
 @keyframes css{
@@ -534,7 +534,7 @@ grid-gap: 2rem;
     
 }
 .points.marked{
-    animation: glow 0.04s linear forwards;
+    animation: glow 0.04s linear infinite;
           animation-delay: calc(var(--i)*0.003s);
 }
 .contact{
