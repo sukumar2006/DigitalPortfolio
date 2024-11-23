@@ -426,9 +426,9 @@ grid-gap: 2rem;
     width: 80%;
     animation: css 4s;
 }
-.skils-bar .bar .python{
+.skils-bar .bar .java{
     width: 80%;
-    animation: python 4s;
+    animation: java 4s;
 }
 ::-webkit-scrollbar{
     height: 0;
