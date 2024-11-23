@@ -534,7 +534,7 @@ grid-gap: 2rem;
     
 }
 .points.marked{
-    animation: glow 0.04s linear infinite;
+    animation: glow 6s linear infinite;
           animation-delay: calc(var(--i)*0.003s);
 }
 .contact{
