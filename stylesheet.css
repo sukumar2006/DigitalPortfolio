@@ -416,19 +416,19 @@ grid-gap: 2rem;
 }
 .skils-bar .bar .html{
     width: 80%;
-    animation: html 2s;
+    animation: html 6s infinite;
 }
 .skils-bar .bar .javascript{
     width: 90%;
-    animation: javascript 3s;
+    animation: javascript 6s infinite;
 }
 .skils-bar .bar .css{
     width: 80%;
-    animation: css 4s;
+    animation: css 6s infinite;
 }
 .skils-bar .bar .java{
     width: 80%;
-    animation: java 4s;
+    animation: java 6s infinite;
 }
 ::-webkit-scrollbar{
     height: 0;
